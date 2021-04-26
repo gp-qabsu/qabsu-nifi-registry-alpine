@@ -1,4 +1,8 @@
 # Qabsu NiFi Registry Image
+![GitHub repo size](https://img.shields.io/github/repo-size/gp-qabsu/qabsu-nifi-registry-alpine)
+![GitHub contributors](https://img.shields.io/github/contributors/gp-qabsu/qabsu-nifi-registry-alpine)
+![GitHub forks](https://img.shields.io/github/forks/gp-qabsu/qabsu-nifi-registry-alpine?style=social)
+
 The following repository contains Apache NiFi Registry provisioned on the Alpine Linux distribution.  The image supports running in standalone mode either unsecured or with user authentication provided via
 * Two-way SSL client certificates
 * Lightweight Directory Access Protocol (LDAP)
